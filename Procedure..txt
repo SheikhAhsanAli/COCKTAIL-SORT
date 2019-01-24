@@ -1,0 +1,11 @@
+							HOW TO USE THE CODE?
+1- Copy the whole code form program.cs file.
+2- Open a new project in your visual studio.
+3- Set the project name as Cocktail_Sort.
+4- Erase all after the file opens.
+5- Paste the copied code(from step 1) here.
+6- Compile and run the code.
+   a) First enter the number of elements.
+   b) Then enter the elements(separated by press of "Enter"key).
+   c) Press Enter.
+   d) The sorted list is the printed.	
