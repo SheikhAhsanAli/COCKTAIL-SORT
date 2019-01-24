@@ -8,4 +8,4 @@
    a) First enter the number of elements.
    b) Then enter the elements(separated by press of "Enter"key).
    c) Press Enter.
-   d) The sorted list is the printed.	
+   d) The sorted list is then printed.	
