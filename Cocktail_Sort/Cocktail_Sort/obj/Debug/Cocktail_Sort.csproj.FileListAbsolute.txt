@@ -1,0 +1,6 @@
+c:\users\dua comunication\documents\visual studio 2015\Projects\Cocktail_Sort\Cocktail_Sort\bin\Debug\Cocktail_Sort.exe.config
+c:\users\dua comunication\documents\visual studio 2015\Projects\Cocktail_Sort\Cocktail_Sort\bin\Debug\Cocktail_Sort.exe
+c:\users\dua comunication\documents\visual studio 2015\Projects\Cocktail_Sort\Cocktail_Sort\bin\Debug\Cocktail_Sort.pdb
+c:\users\dua comunication\documents\visual studio 2015\Projects\Cocktail_Sort\Cocktail_Sort\obj\Debug\Cocktail_Sort.csprojResolveAssemblyReference.cache
+c:\users\dua comunication\documents\visual studio 2015\Projects\Cocktail_Sort\Cocktail_Sort\obj\Debug\Cocktail_Sort.exe
+c:\users\dua comunication\documents\visual studio 2015\Projects\Cocktail_Sort\Cocktail_Sort\obj\Debug\Cocktail_Sort.pdb
