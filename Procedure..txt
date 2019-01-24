@@ -1,5 +1,5 @@
 							HOW TO USE THE CODE?
-1- Copy the whole code form program.cs file.
+1- Copy the whole code from program.cs file.
 2- Open a new project in your visual studio.
 3- Set the project name as Cocktail_Sort.
 4- Erase all after the file opens.
