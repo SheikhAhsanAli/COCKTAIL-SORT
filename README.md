@@ -1,5 +1,6 @@
 # Cocktail-Sort
 It is a simple implementation of Cocktail Sort.
+
 Cocktail sort is a bidimensional variance of bubble sort.
 
 Read The Procedure.txt to know how to use the code.
