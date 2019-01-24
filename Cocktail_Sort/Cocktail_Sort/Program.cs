@@ -66,6 +66,7 @@ namespace Cocktail_Sort
                 }
                 start = start + 1;
             }
+            Console.WriteLine("The Printed list is as under");
             for (int j = 0; j < a.Length; j++)
             {
                 Console.WriteLine(a[j]);                 // printing the sorted array
